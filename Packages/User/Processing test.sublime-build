@@ -1,0 +1,15 @@
+{
+    "shell":true,
+    "path": "$file_path//temp",
+	"cmd":[
+
+			"E:\Programmes 2\\processing-2.2.1\\processing-java.exe",
+			"--sketch=$file_path",
+			"--output=$file_path/build",
+			"--force",
+			"--build",
+			"--run"
+		]
+}
+
+‪

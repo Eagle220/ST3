@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"Arduino-like IDE",
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"Language - French - Français",
+		"Oddly",
+		"Package Control",
+		"Processing",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-pep257",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Wrap Plus"
+	]
+}

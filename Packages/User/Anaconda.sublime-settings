@@ -1,0 +1,4 @@
+{"use_pylint": false,
+    "anaconda_linting": true,   
+    "anaconda_linting_behaviour": "always",
+	"anaconda_linter_mark_style": "none"}
