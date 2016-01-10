@@ -1,9 +1,10 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (modern).dic",
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
+		"anaconda-1.4.4",
 		"Git",
 		"SideBarGit"
 	]

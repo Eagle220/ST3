@@ -1,7 +1,7 @@
 [
 	{"keys": ["ctrl+shift+o"], "command": "exec", "args": {"kill": true}},
 	{"keys": ["ctrl+alt+a"], "command": "alignment" },
-	
+	{"command": "anaconda_auto_format", "keys": ["ctrl+alt+r"]},
 	{ "keys": ["f8"], "command": "repl_open", 
                  "caption": "Python",
                  "mnemonic": "p",
