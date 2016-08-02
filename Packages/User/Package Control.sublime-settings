@@ -25,15 +25,19 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeGit",
+		"SublimeHighlight",
 		"SublimeLinter",
-		"SublimeLinter-pep257",
 		"SublimeLinter-pep8",
+		"SublimeLinter-pydocstyle",
 		"SublimeLinter-pylint",
 		"SublimeREPL",
+		"Theme - Flatland",
 		"Wrap Plus"
 	],
 	"repositories":
 	[
-		"https://raw.githubusercontent.com/wbond/package_control_channel/master/channel.json"
+		"https://raw.githubusercontent.com/wbond/package_control_channel/master/channel.json",
+		"https://github.com/wbond/package_control_channel/tree/master/repository",
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
 	]
 }
